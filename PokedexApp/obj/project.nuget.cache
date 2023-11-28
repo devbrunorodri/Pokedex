@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wB056E9QjyRYVxf9M+jS41b/2PlprHdyYHZ1EroNyzGs5vj7agvWEYNhQ29EF9S/3WvVYz//zE2j9JixLTn7HQ==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\pokedex\\pokedexapp\\PokedexApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devBruno\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\devBruno\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\devBruno\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\devBruno\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
